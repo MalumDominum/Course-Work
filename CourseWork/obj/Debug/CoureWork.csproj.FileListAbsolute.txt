@@ -1,0 +1,14 @@
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\bin\Debug\CoureWork.exe.config
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\bin\Debug\CoureWork.exe
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\bin\Debug\CoureWork.pdb
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork.csprojAssemblyReference.cache
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\MainWindow.g.cs
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\App.g.cs
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork_MarkupCompile.cache
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork_MarkupCompile.lref
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\MainWindow.baml
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork.g.resources
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork.Properties.Resources.resources
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork.csproj.GenerateResource.cache
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork.exe
+C:\Users\mihai\Source\repos\CoureWork\CoureWork\obj\Debug\CoureWork.pdb
